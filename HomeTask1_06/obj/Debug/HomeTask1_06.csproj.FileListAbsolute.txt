@@ -1,0 +1,5 @@
+C:\Users\Дмитрий\Desktop\vs projects\Fabrica\HomeTask1_06\bin\Debug\HomeTask1_06.exe.config
+C:\Users\Дмитрий\Desktop\vs projects\Fabrica\HomeTask1_06\bin\Debug\HomeTask1_06.exe
+C:\Users\Дмитрий\Desktop\vs projects\Fabrica\HomeTask1_06\bin\Debug\HomeTask1_06.pdb
+C:\Users\Дмитрий\Desktop\vs projects\Fabrica\HomeTask1_06\obj\Debug\HomeTask1_06.exe
+C:\Users\Дмитрий\Desktop\vs projects\Fabrica\HomeTask1_06\obj\Debug\HomeTask1_06.pdb

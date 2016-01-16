@@ -1,0 +1,3 @@
+C:\Users\Дмитрий\Desktop\vs projects\Fabrica\Fabrica\bin\Debug\Fabrica.exe.config
+C:\Users\Дмитрий\Desktop\vs projects\Fabrica\Fabrica\obj\Debug\Fabrica.exe
+C:\Users\Дмитрий\Desktop\vs projects\Fabrica\Fabrica\obj\Debug\Fabrica.pdb

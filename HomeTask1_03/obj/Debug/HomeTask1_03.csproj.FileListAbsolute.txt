@@ -1,0 +1,6 @@
+C:\Users\Дмитрий\Desktop\vs projects\Fabrica\HomeTask1_03\bin\Debug\HomeTask1_03.exe.config
+C:\Users\Дмитрий\Desktop\vs projects\Fabrica\HomeTask1_03\bin\Debug\HomeTask1_03.exe
+C:\Users\Дмитрий\Desktop\vs projects\Fabrica\HomeTask1_03\bin\Debug\HomeTask1_03.pdb
+C:\Users\Дмитрий\Desktop\vs projects\Fabrica\HomeTask1_03\obj\Debug\HomeTask1_03.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Desktop\vs projects\Fabrica\HomeTask1_03\obj\Debug\HomeTask1_03.exe
+C:\Users\Дмитрий\Desktop\vs projects\Fabrica\HomeTask1_03\obj\Debug\HomeTask1_03.pdb
